@@ -6,4 +6,8 @@
         public string street { get; set; }
         public int houseNumber { get; set; }
     }
+    static void Main()
+    {
+
+    }
 }
