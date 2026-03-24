@@ -1,0 +1,14 @@
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.AssemblyInfoInputs.cache
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.AssemblyInfo.cs
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.csproj.CoreCompileInputs.cache
+E:\ПРАКТИКА_C#\Program\Program\bin\Debug\net9.0\Program.exe
+E:\ПРАКТИКА_C#\Program\Program\bin\Debug\net9.0\Program.deps.json
+E:\ПРАКТИКА_C#\Program\Program\bin\Debug\net9.0\Program.runtimeconfig.json
+E:\ПРАКТИКА_C#\Program\Program\bin\Debug\net9.0\Program.dll
+E:\ПРАКТИКА_C#\Program\Program\bin\Debug\net9.0\Program.pdb
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.dll
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\refint\Program.dll
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.pdb
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\Program.genruntimeconfig.cache
+E:\ПРАКТИКА_C#\Program\Program\obj\Debug\net9.0\ref\Program.dll
